@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
