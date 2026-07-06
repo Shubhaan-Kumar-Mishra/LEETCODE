@@ -119,11 +119,13 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0155-min-stack) |
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Counting
 |  |
