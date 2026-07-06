@@ -55,6 +55,7 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0383-ransom-note) |
+| [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 ## Design
 |  |
 | ------- |
