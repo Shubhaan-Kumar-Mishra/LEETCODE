@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
+| [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
