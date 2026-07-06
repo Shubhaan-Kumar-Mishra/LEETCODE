@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0383-ransom-note) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0383-ransom-note) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
