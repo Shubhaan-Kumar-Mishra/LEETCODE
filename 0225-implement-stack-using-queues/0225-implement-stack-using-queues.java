@@ -1,26 +1,32 @@
-public class MyStack {
-    private Queue<Integer> q;
+class MyStack {
+    private Deque<Integer> stack;
 
     public MyStack() {
-        q = new LinkedList<>();
+        this.stack = new ArrayDeque<>();
     }
-
+    
     public void push(int x) {
-        q.add(x);
-        for (int i = 1; i < q.size(); i++) {
-            q.add(q.remove());
-        }
+        this.stack.addFirst(x);
     }
-
+    
     public int pop() {
-        return q.remove();
+        return this.stack.removeFirst();
     }
-
+    
     public int top() {
-        return q.peek();
+        return this.stack.peekFirst();
     }
-
+    
     public boolean empty() {
-        return q.isEmpty();
+        return this.stack.isEmpty();
     }
 }
+
+/**
+ * Your MyStack object will be instantiated and called as such:
+ * MyStack obj = new MyStack();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.top();
+ * boolean param_4 = obj.empty();
+ */
