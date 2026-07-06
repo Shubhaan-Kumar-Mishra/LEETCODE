@@ -120,12 +120,14 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Counting
 |  |
@@ -148,5 +150,6 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
