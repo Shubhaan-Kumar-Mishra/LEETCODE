@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
