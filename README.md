@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -75,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
