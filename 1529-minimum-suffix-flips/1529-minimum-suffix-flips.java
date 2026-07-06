@@ -1,13 +1,11 @@
 class Solution {
     public int minFlips(String target) {
-        int max = 0;
-        char bit = '0';
-        for(int i = 0; i < target.length(); i++) {
-            if(target.charAt(i) != bit) {
-                max++;
-                bit = target.charAt(i);
-            }
+        int flips = 0;
+        int prev = '0';
+        for (int ch : target.getBytes()) {
+            flips += (prev ^ ch);
+            prev = ch;
         }
-        return max;
+        return flips;
     }
 }
