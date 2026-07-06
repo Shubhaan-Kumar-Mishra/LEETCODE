@@ -1,58 +1,80 @@
+import java.util.Stack;
+
 class MinStack {
-    ListNode head;
-    int min;
+    Stack<Long> st;
+    long min;
+
     public MinStack() {
-        head=null;
-        min=Integer.MAX_VALUE;
+        st = new Stack<>();
+        min = Long.MAX_VALUE;
     }
-    
+
     public void push(int val) {
-        if(min>val){
-            min=val;
+        if (st.isEmpty()) {
+            st.push((long) val);
+            min = val;
+        } 
+        else if (val >= min) {
+            st.push((long) val);
+        } 
+        else {
+            st.push(2L * val - min); // encoding
+            min = val;
         }
-        head=new ListNode(val,min,head);
     }
-    
+
     public void pop() {
-        head=head.next;
-        if(head==null){
-            min=Integer.MAX_VALUE;
-        }else{
-            min=head.currentMin;
+        if (st.peek() < min) {
+            min = 2 * min - st.peek(); // decoding
         }
+        st.pop();
     }
-    
+
     public int top() {
-        return head.val;
+        long a = st.peek();
+        if (a < min) return (int) min;
+        else return (int) a;
     }
-    
+
     public int getMin() {
-        return head.currentMin;
+        return (int) min;
     }
 }
+// class MinStack {
+//     Stack<Integer> st;
+//     Stack<Integer> minSt;
+//     public MinStack() {
+//         st=new Stack<>();
+//         minSt=new Stack<>();
+//     }
+    
+//     public void push(int val) {
+//         st.push(val);
+//         if(minSt.size()==0 || val<minSt.peek()) minSt.push(val);
+//         else minSt.push(minSt.peek());
+//     }
+    
+//     public void pop() {
+//         st.pop();
+//         minSt.pop();
+//     }
+    
+//     public int top() {
+//         return st.peek();
+//     }
+    
+//     public int getMin() {
+//         return minSt.peek();
+//     }
+// }
 
-class ListNode{
-    int val;
-    int currentMin;
-    ListNode next;
-    ListNode(){
-
-    }
-    ListNode(int val){
-        this.val=val;
-    }
-    ListNode(int val,int currMin,ListNode next){
-        this.val=val;
-        this.currentMin=currMin;
-        this.next=next;
-    }
-}
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(val);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
- */
+// /**
+//  * Your MinStack object will be instantiated and called as such:
+//  * MinStack obj = new MinStack();
+//  * obj.push(val);
+//  * obj.pop();
+//  * int param_3 = obj.top();
+//  * int param_4 = obj.getMin();
+//  */
+       
+         
