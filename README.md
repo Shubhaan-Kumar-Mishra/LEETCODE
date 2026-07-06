@@ -95,6 +95,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
+| [0390-elimination-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0390-elimination-game) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0390-elimination-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0390-elimination-game) |
 ## Stack
 |  |
 | ------- |
