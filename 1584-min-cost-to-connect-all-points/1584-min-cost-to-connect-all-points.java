@@ -1,39 +1,36 @@
-public class Solution {
-    public static int manhattan_distance(int[] p1, int[] p2) {
-        return Math.abs(p1[0] - p2[0]) + Math.abs(p1[1] - p2[1]);
-    }
-
+class Solution {
     public int minCostConnectPoints(int[][] points) {
         int n = points.length;
+        if (n == 1) {
+            return 0;
+        }
+        int minCost = 0;
+        int curr = 0;
+        int next = 0;
         boolean[] visited = new boolean[n];
-        HashMap<Integer, Integer> heap_dict = new HashMap<>();
-        heap_dict.put(0, 0);
-        
-        PriorityQueue<int[]> min_heap = new PriorityQueue<>((a, b) -> Integer.compare(a[0], b[0]));
-        min_heap.add(new int[]{0, 0});
-        
-        int mst_weight = 0;
-        
-        while (!min_heap.isEmpty()) {
-            int[] top = min_heap.poll();
-            int w = top[0], u = top[1];
-            
-            if (visited[u] || heap_dict.getOrDefault(u, Integer.MAX_VALUE) < w) continue;
-            
-            visited[u] = true;
-            mst_weight += w;
-            
-            for (int v = 0; v < n; ++v) {
-                if (!visited[v]) {
-                    int new_distance = manhattan_distance(points[u], points[v]);
-                    if (new_distance < heap_dict.getOrDefault(v, Integer.MAX_VALUE)) {
-                        heap_dict.put(v, new_distance);
-                        min_heap.add(new int[]{new_distance, v});
+        int processed = 0;
+        int[] dist = new int[n];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        while (processed != n) {
+            curr = next;
+            int min = Integer.MAX_VALUE;
+            for (int i = 0; i < n; i++) {
+                if (!visited[i]) {
+                    int d = points[curr][0] - points[i][0];
+                    int val = Math.max(d, -d);
+                    d = points[curr][1] - points[i][1];
+                    val += Math.max(d, -d);
+                    dist[i] = Math.min(dist[i], val);
+                    if (dist[i] < min) {
+                        min = dist[i];
+                        next = i;
                     }
                 }
             }
+            processed++;
+            visited[next] = true;
+            minCost += min;
         }
-        
-        return mst_weight;
+        return minCost;
     }
 }
