@@ -46,6 +46,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1529-minimum-suffix-flips](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1529-minimum-suffix-flips) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1529-minimum-suffix-flips](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1529-minimum-suffix-flips) |
 ## Binary Search
 |  |
 | ------- |
