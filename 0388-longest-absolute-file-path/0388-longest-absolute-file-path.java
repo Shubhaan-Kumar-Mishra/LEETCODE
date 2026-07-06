@@ -1,29 +1,24 @@
 class Solution {
     public int lengthLongestPath(String input) {
-        int maxlength = 0;
-        Stack<Integer> pathlengths = new Stack<>();
-        String[] lines = input.split("\n");
-        
-        for (String line : lines) {
-            int depth = 0;
+        String[] parts = input.split("\n");
+        int[] len = new int[parts.length + 1];
+        int ans = 0;
 
-            while (line.charAt(depth) == '\t') {
+        for (String s : parts) {
+            int depth = 0;
+            while (depth < s.length() && s.charAt(depth) == '\t') {
                 depth++;
             }
 
-            while (pathlengths.size() > depth) {
-                pathlengths.pop();
-            }
-
-            String name = line.substring(depth);
-            int length = (pathlengths.isEmpty() ? 0 : pathlengths.peek()) + name.length() + (pathlengths.isEmpty() ? 0 : 1);
+            String name = s.substring(depth);
 
             if (name.contains(".")) {
-                maxlength = Math.max(maxlength, length);
+                ans = Math.max(ans, len[depth] + name.length());
             } else {
-                pathlengths.push(length);
+                len[depth + 1] = len[depth] + name.length() + 1;
             }
         }
-        return maxlength;
+
+        return ans;
     }
 }
