@@ -73,6 +73,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0383-ransom-note) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
