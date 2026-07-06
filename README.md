@@ -54,9 +54,11 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
 | ------- |
+| [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [3620-network-recovery-pathways](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
+| [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
