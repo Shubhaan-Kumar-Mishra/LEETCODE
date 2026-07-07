@@ -6,6 +6,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0413-arithmetic-slices](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -87,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -186,6 +188,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
