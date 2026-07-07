@@ -13,6 +13,7 @@
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2293-min-max-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2293-min-max-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -63,6 +64,7 @@
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3620-network-recovery-pathways](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -120,6 +123,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
 | [0390-elimination-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0390-elimination-game) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
@@ -181,4 +185,5 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
