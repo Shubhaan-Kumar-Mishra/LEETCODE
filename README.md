@@ -16,6 +16,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2293-min-max-game) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -60,6 +61,7 @@
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1529-minimum-suffix-flips](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1529-minimum-suffix-flips) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3866-first-unique-even-element](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
