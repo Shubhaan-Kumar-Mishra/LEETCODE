@@ -1,64 +1,46 @@
 class Solution {
     public int[] sumAndMultiply(String s, int[][] queries) {
-        final int MOD = 1_000_000_007;
-        int n = s.length();
-
-        long[] pow10 = new long[n + 1];
-        pow10[0] = 1;
-
-        for (int i = 1; i <= n; i++) {
-            pow10[i] = (pow10[i - 1] * 10) % MOD;
-        }
-
+        long MOD = 1_000_000_007;
+        int len = s.length();
         
-        int[] idx = new int[n + 1];
-
+        long[] preSum = new long[len + 1];
+        long[] preProduct = new long[len + 1];
+        int[] nonZeroCnt = new int[len + 1];
+        long[] p10 = new long[len + 1];
         
-        long[] val = new long[n + 1];
-
-        
-        long[] total = new long[n + 1];
-
-        int cnt = 0;
-
-        for (int i = 0; i < n; i++) {
-            int digit = s.charAt(i) - '0';
-
-            if (digit != 0) {
-                cnt++;
-                val[cnt] = (val[cnt - 1] * 10 + digit) % MOD;
-                total[cnt] = total[cnt - 1] + digit;
-            }
-
-            idx[i + 1] = cnt;
-        }
-
-        int[] ans = new int[queries.length];
-
-        for (int i = 0; i < queries.length; i++) {
-
-            int l = queries[i][0];
-            int r = queries[i][1];
-
-            int left = idx[l];
-            int right = idx[r + 1];
-
+        // 预处理 10 的次幂取模
+        p10[0] = 1;
+        for (int i = 0; i < len; i++) {
+            p10[i + 1] = (p10[i] * 10) % MOD;
             
-            if (left == right) {
-                ans[i] = 0;
-                continue;
+            int digit = s.charAt(i) - '0';
+            preSum[i + 1] = preSum[i] + digit;
+            
+            if (digit == 0) {
+                preProduct[i + 1] = preProduct[i];
+                nonZeroCnt[i + 1] = nonZeroCnt[i];
+            } else {
+                preProduct[i + 1] = (preProduct[i] * 10 + digit) % MOD;
+                nonZeroCnt[i + 1] = nonZeroCnt[i] + 1;
             }
-
-            int len = right - left;
-            long number = (val[right] - (val[left] * pow10[len]) % MOD) % MOD;
-
-            if (number < 0)
-                number += MOD;
-
-            long sum = total[right] - total[left];
-            ans[i] = (int) ((number * sum) % MOD);
         }
-
-        return ans;
+        
+        int[] res = new int[queries.length];
+        for (int i = 0; i < queries.length; i++) {
+            int start = queries[i][0];
+            int end = queries[i][1];
+            
+            
+            long sum = preSum[end + 1] - preSum[start];
+            
+            int cnt = nonZeroCnt[end + 1] - nonZeroCnt[start];
+            
+            long subtract = (preProduct[start] * p10[cnt]) % MOD;
+            long x = (preProduct[end + 1] - subtract + MOD) % MOD;
+            
+            res[i] = (int) ((x * sum) % MOD);
+        }
+        
+        return res;
     }
 }
