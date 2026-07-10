@@ -22,6 +22,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3866-first-unique-even-element](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Breadth-First Search
@@ -36,6 +37,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -57,6 +59,7 @@
 | ------- |
 | [1529-minimum-suffix-flips](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1529-minimum-suffix-flips) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +68,7 @@
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +76,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -92,6 +97,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -100,6 +106,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -179,6 +186,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
