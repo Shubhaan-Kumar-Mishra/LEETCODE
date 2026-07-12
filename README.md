@@ -14,6 +14,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -68,6 +69,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -140,6 +142,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1331-rank-transform-of-an-array](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3866-first-unique-even-element](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3866-first-unique-even-element) |
