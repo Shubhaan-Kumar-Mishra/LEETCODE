@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0707-design-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Counting
 |  |
