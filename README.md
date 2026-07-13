@@ -221,4 +221,8 @@
 | [0413-arithmetic-slices](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
