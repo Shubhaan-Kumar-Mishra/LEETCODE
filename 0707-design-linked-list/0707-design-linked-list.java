@@ -1,93 +1,83 @@
 class MyLinkedList {
 
-    private static class Node{
+    class Node {
         int val;
-        Node next;
-        public Node(int val){
+        Node prev, next;
+        Node(int val) {
             this.val = val;
         }
     }
 
-    Node head = null;
-    Node tail = null;
-    int current_size = 0;
+    private Node head, tail;
+    private int size;
 
     public MyLinkedList() {
-    }
-    
-    public int get(int index) {
-        if(index < 0 || index >= current_size)
-            return -1;
-
-        Node temp = head;
-        for(int i=0; i<index; i++){
-            temp = temp.next;
-        }
-        return temp.val;
+        head = new Node(0);   // dummy head
+        tail = new Node(0);   // dummy tail
+        head.next = tail;
+        tail.prev = head;
+        size = 0;
     }
 
-    private Node getNodeAtIndex(int index) {
-        if(index < 0 || index >= current_size)
+    private Node getNode(int index) {
+        if (index < 0 || index >= size)
             return null;
 
-        Node temp = head;
-        for(int i=0; i<index; i++){
-            temp = temp.next;
+        Node curr;
+        if (index < size / 2) {
+            curr = head.next;
+            for (int i = 0; i < index; i++)
+                curr = curr.next;
+        } else {
+            curr = tail.prev;
+            for (int i = size - 1; i > index; i--)
+                curr = curr.prev;
         }
-        return temp;
+        return curr;
+    }
+
+    public int get(int index) {
+        Node node = getNode(index);
+        return node == null ? -1 : node.val;
     }
 
     public void addAtHead(int val) {
-        Node newNode = new Node(val);
-        newNode.next = head;
-        head = newNode;
-        if(current_size == 0)
-            tail = head;
-        current_size++;
+        addAtIndex(0, val);
     }
-    
+
     public void addAtTail(int val) {
-        if(current_size == 0)
-            addAtHead(val);
-        else {
-            tail.next = new Node(val);
-            tail = tail.next;
-            current_size++;
-        }
+        addAtIndex(size, val);
     }
-    
+
     public void addAtIndex(int index, int val) {
-        if(index < 0 || index > current_size)
+        if (index < 0 || index > size)
             return;
-        else if(index == 0)
-            addAtHead(val);
-        else if(index == current_size)
-            addAtTail(val);
-        else {
-            Node newNode = new Node(val);
-            Node prevNode = getNodeAtIndex(index-1);
-            newNode.next = prevNode.next;
-            prevNode.next = newNode;
-            current_size++;
-        }
-    }
-    
-    public void deleteAtIndex(int index) {
-        if(index < 0 || index >= current_size)
-            return;
-        else if(current_size == 1){
-            head = null;
-            tail = null;
-        } else if(index == 0){
-            head = head.next;
-        } else if(index == current_size-1){
-            Node previousNode = getNodeAtIndex(index-1);
-            previousNode.next = null;
-            tail = previousNode;
+
+        Node prev, next;
+        if (index == size) {
+            prev = tail.prev;
+            next = tail;
         } else {
-            Node previousNode = getNodeAtIndex(index-1);
-            previousNode.next = previousNode.next.next;
+            next = getNode(index);
+            prev = next.prev;
         }
-        current_size--;
+
+        Node newNode = new Node(val);
+        newNode.prev = prev;
+        newNode.next = next;
+        prev.next = newNode;
+        next.prev = newNode;
+
+        size++;
+    }
+
+    public void deleteAtIndex(int index) {
+        Node node = getNode(index);
+        if (node == null)
+            return;
+
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
+        size--;
     }
 }
