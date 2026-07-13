@@ -76,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +134,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -159,6 +161,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0707-design-linked-list) |
 ## Recursion
