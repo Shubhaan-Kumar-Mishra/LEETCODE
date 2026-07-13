@@ -78,6 +78,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -163,11 +164,13 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0390-elimination-game) |
 ## Stack
 |  |
@@ -175,6 +178,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 ## Design
