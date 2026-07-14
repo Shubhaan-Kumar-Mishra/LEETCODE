@@ -12,6 +12,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -191,6 +192,7 @@
 | [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -254,4 +256,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
