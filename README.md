@@ -271,4 +271,5 @@
 | [0178-rank-scores](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0626-exchange-seats](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
