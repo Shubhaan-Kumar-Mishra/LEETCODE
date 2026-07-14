@@ -8,6 +8,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -188,6 +189,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -251,4 +253,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
