@@ -1,20 +1,22 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
-        int[] res = new int[n];
-        Arrays.fill(res, -1);
+        int[] ans = new int[n];
+        java.util.Arrays.fill(ans, -1);
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j <= i + n - 1; j++) {
-                int idx = j % n;
+        int[] stack = new int[n];
+        int top = -1;
 
-                if (nums[idx] > nums[i]) {
-                    res[i] = nums[idx];
-                    break;
-                }
-            }
+        for (int i = 0; i < 2 * n; i++) {
+            int idx = i % n;
+
+            while (top >= 0 && nums[stack[top]] < nums[idx])
+                ans[stack[top--]] = nums[idx];
+
+            if (i < n)
+                stack[++top] = idx;
         }
 
-        return res;
+        return ans;
     }
 }
