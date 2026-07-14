@@ -193,6 +193,7 @@
 | [0503-next-greater-element-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -200,6 +201,7 @@
 | [0155-min-stack](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Counting
 |  |
@@ -257,4 +259,9 @@
 | [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
