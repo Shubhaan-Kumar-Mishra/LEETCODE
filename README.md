@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -144,6 +145,7 @@
 | [0383-ransom-note](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
@@ -184,6 +186,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
+| [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
@@ -242,4 +245,8 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
