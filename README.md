@@ -267,5 +267,6 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
