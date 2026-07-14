@@ -95,6 +95,7 @@
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0389-find-the-difference) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1529-minimum-suffix-flips](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1529-minimum-suffix-flips) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -188,6 +189,7 @@
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
