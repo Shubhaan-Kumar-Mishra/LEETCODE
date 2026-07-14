@@ -264,4 +264,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0901-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
