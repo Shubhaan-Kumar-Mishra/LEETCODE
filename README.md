@@ -18,6 +18,7 @@
 | [1288-remove-covered-intervals](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -110,6 +111,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [1539-kth-missing-positive-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3620-network-recovery-pathways) |
