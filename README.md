@@ -130,6 +130,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0388-longest-absolute-file-path) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -280,4 +281,16 @@
 | [0196-delete-duplicate-emails](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0626-exchange-seats) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
