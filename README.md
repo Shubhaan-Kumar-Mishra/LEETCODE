@@ -125,6 +125,7 @@
 | [0413-arithmetic-slices](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -174,6 +175,7 @@
 | [0202-happy-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0202-happy-number) |
 | [0343-integer-break](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0390-elimination-game) |
+| [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -304,4 +306,24 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
