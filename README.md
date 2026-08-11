@@ -26,6 +26,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2293-min-max-game) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -81,6 +82,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -166,6 +168,7 @@
 | [0981-time-based-key-value-store](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3866-first-unique-even-element](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Math
