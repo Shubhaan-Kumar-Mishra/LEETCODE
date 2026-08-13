@@ -329,4 +329,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
