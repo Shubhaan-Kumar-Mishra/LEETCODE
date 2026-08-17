@@ -20,6 +20,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -128,6 +129,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1563-stone-game-v) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -179,6 +181,7 @@
 | [0343-integer-break](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/0390-elimination-game) |
 | [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1563-stone-game-v) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -317,6 +320,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shubhaan-Kumar-Mishra/LEETCODE/tree/master/1563-stone-game-v) |
 ## Nim Game
 |  |
 | ------- |
